@@ -2,6 +2,10 @@
 
 This is a simple Laravel project. It demonstrates the core flow between Routes, Controllers, and Blade views.
 
+<img width="615" height="83" alt="form" src="https://github.com/user-attachments/assets/ce04a81c-2ece-4b10-9729-bb6afa35913c" />
+
+--
+
 ## 🚀 What's inside?
 - **Routes**: GET and POST routing setup.
 - **Controllers**: Handling logic using the `PostController`.
